@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zhora/Desktop/C++_CLion/RBTree/Node.h
+
+C:/Users/zhora/Desktop/C++_CLion/RBTree/RedBlackTree.cpp
+RedBlackTree.h
+C:/Users/zhora/Desktop/C++_CLion/RBTree/RedBlackTree.h
+iostream
+-
+Windows.h
+-
+
+C:/Users/zhora/Desktop/C++_CLion/RBTree/RedBlackTree.h
+Node.h
+C:/Users/zhora/Desktop/C++_CLion/RBTree/Node.h
+
+C:/Users/zhora/Desktop/C++_CLion/RBTree/main.cpp
+iostream
+-
+RedBlackTree.h
+C:/Users/zhora/Desktop/C++_CLion/RBTree/RedBlackTree.h
+RedBlackTree.cpp
+C:/Users/zhora/Desktop/C++_CLion/RBTree/RedBlackTree.cpp
+

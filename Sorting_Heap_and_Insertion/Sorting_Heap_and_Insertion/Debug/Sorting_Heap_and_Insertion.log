@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lavak\OneDrive\Рабочий стол\Структуры данных\Sorting_Heap_and_Insertion\Sorting_Heap_and_Insertion\main.cpp(61,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sorting_Heap_and_Insertion.vcxproj -> C:\Users\lavak\OneDrive\Рабочий стол\Структуры данных\Sorting_Heap_and_Insertion\Debug\Sorting_Heap_and_Insertion.exe
